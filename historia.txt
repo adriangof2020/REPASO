@@ -10,6 +10,10 @@ experimento 4
 
 master 2
 
+<<<<<<< HEAD
 mañana nos enfocaremos en su vida 
 
 ahora somos dos
+=======
+mañana nos enfocaremos en su edad
+>>>>>>> prueba-stash
